@@ -2,7 +2,7 @@
 
 ## MicroPython as a development platform for IoT
 
-Article about micropython as a platform for IoT and its implementation on board STM32, in slovak language.
+Article about micropython as a platform for IoT and its implementation on board STM32, 2020, in slovak language.
 
 The published English language version is at Springer Link
 
